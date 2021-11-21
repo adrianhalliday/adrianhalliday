@@ -13,13 +13,15 @@ A bit about me
 
 :hammer_and_wrench: Tools of the trade
 ===
-- Vue.js
+- Vue.js & NUXT
+- React.js & NEXT (to a much much lesser extent)
 - SCSS, CSS
 - ES6 JavaScript, jQuery
 - PHP
 - HTML5
 - Headless CMS
 - Wordpress Custom Theme & Plugin Development
+- LAMP & LEMP, VPS, RunCloud, AWS, CloudFlare
 
 :memo: Code Style
 ===
